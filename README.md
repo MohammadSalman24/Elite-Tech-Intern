@@ -1,1 +1,1 @@
-# Elite-Tech-Intern
+![My Image](images/image-name.png)
